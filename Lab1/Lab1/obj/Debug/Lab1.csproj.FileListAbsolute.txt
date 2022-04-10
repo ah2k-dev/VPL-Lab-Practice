@@ -1,0 +1,10 @@
+c:\users\ah425\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+c:\users\ah425\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+c:\users\ah425\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+c:\users\ah425\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
